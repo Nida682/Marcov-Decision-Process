@@ -1,0 +1,20 @@
+3. Markov Decision Process (MDP)
+
+Description:
+A Markov Decision Process is a mathematical framework for decision-making where outcomes depend on the current state and actions, not past history.
+
+Key idea: Decision-making under uncertainty.
+
+Components:
+
+States
+Actions
+Rewards
+Transition probabilities
+
+Examples:
+
+1. Robot Navigation
+"A robot decides where to move next based only on its current position."
+2. Recommendation Systems
+"Apps suggest products based on current user behavior (like online shopping".
